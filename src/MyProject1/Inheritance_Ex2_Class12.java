@@ -23,7 +23,7 @@ class D4 extends D3 {
 	}
 }
 
-public class Inheritance_Ex2_Inheritance {
+public class Inheritance_Ex2_Class12 {
 	public static void main(String[] args) {
 		D4 obj = new D4();
 		obj.test();
