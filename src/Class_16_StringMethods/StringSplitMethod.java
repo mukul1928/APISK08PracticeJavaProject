@@ -3,7 +3,8 @@ package Class_16_StringMethods;
 public class StringSplitMethod {
 	public static void main(String[] args) {
 		/*
-		 * String str = "Chandan@Test@Architect@Java"; String[] s1 = str.split("@");
+		 * String str = "Chandan@Test@Architect@Java"; 
+		 * String[] s1 = str.split("@");
 		 * System.out.println(s1[0]);// Chandan System.out.println(s1[1]);// Test
 		 * System.out.println(s1[2]);// Archtect System.out.println(s1[3]);// Java
 		 */
