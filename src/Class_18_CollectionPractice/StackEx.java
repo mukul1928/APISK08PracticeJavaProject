@@ -12,6 +12,6 @@ public class StackEx {
 
 		s1.pop();// For removing the last element we use this so 60000f will be removed
 		System.out.println(s1);
-		System.out.println(s1.peek());
+		System.out.println(s1.peek());// it will print the line no 10th element which is false
 	}
 }
